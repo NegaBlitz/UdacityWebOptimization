@@ -2,7 +2,9 @@
 This project is a portfolio that was optimized to run much more smoothly. Contained are two main files, the ```index.html``` and ```views/pizza.html``` files. Viewing them is as simple as right-clicking and opening them in the browser of your choice.
 
 ## index.HTML and the Portfolio
-The portfolio has a PSI (Page Speed Insights) score of at least 90 on both Changes include:
+The portfolio has a PSI (Page Speed Insights) score of at least 90 on both mobile and desktop.
+
+##### Changes include:
 * Inlined CSS and Javascript
 * Optimized images via grunt
 * Minimized Javascript and Minimized HTML
